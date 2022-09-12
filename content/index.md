@@ -5,5 +5,3 @@
 [[test/fuga]]
 
 [[test/hoge]]
-
-[[content/hoge]]
