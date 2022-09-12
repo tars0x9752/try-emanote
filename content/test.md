@@ -33,10 +33,6 @@ Emanote でサポートされている拡張 MD のテスト。
 [[ファイル名(拡張子は不要)]]
 
 [[ファイル名|リンクのタイトル]]
-
-<!-- 存在しないリンク -->
-
-[[存在しないファイル名]]
 ```
 
 [emanote 公式](https://emanote.srid.ca/)
@@ -44,8 +40,6 @@ Emanote でサポートされている拡張 MD のテスト。
 [[hoge]]
 
 [[hoge|hoge へのリンクDESU]]
-
-[[ほげほげほげ]]
 
 WikiLinks のシンタックスの詳細は[ここ](https://github.com/EmaApps/emanote/blob/master/src/Emanote/Pandoc/Markdown/Syntax/WikiLink.hs)
 
@@ -130,7 +124,7 @@ Fruits
 
 `#tag名` で hash tag
 
-#emanote #howto 
+#emanote #howto
 
 階層構造を持てる
 
@@ -138,7 +132,7 @@ Fruits
 #syntax/hoge
 #syntax/moge/yo
 
-## Custom CSS styling 
+## Custom CSS styling
 
 :::{.sticky-note}
 **スティッキーノート**
@@ -165,4 +159,3 @@ commonmark の attributes extension 形式で CSS クラス名を指定できる
 ```
 
 ![[hoge]]
-
