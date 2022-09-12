@@ -31,3 +31,5 @@ template:
 
   # If you are hosting on GitLab Pages, you may want to remove this.
   urlStrategy: pretty
+
+  editBaseUrl: https://github.com/tars0x9752/try-emanote/edit/main/content
